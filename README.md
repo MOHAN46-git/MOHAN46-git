@@ -9,9 +9,9 @@
 ```javascript
 const developer = {
   name: "MOHANAPRIYAN K",
-  role: "Aspiring AI First Engineer",
-  status: "Pursuing college degree",
-  location: "Learning every day",
+  role: "Software Developer",
+  status: "Pursuing in Nazareth College of Arts and Science",
+  location: "Avadi, Chennai, Tamil Nadu",
   currentFocus: ["Web Development", "Artificial Intelligence"],
   hireable: true,
   email: "mohanmohan200405@gmail.com"
