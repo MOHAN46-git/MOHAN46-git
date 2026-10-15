@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+MOHANAPRIYAN+K;Aspiring+AI+First+Engineer;Building+with+React%2C+Python+%26+AI;Always+learning%2C+always+shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+MOHANAPRIYAN+K;Aspiring+Software+Developer;Building+with+React%2C+Python+%26+AI;Always+learning%2C+always+shipping)
 
 </div>
 
